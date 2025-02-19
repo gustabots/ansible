@@ -1,0 +1,8 @@
+[ansible_dev]
+gustavo_zarate_alvarez@34.159.171.145
+
+[ansible_test]
+gustavo_zarate_alvarez@35.198.140.191
+
+[ansible_prod]
+gustavo_zarate_alvarez@35.246.216.185
